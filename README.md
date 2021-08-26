@@ -1,2 +1,2 @@
 # MAST90083_tutorial
-Notes on my tutorial.
+Notes on the tutorial.
